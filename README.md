@@ -4,4 +4,4 @@ Dificuldades:
 
 O projeto suporta somente bmp, por 2 motivos, falta de tempo para implementar outros formatos. Complexidade menor por já ser conhecido.
 
-(Referência de implementação)[https://gitlab.com/efronlicht/dither]
+[Referência de implementação](https://gitlab.com/efronlicht/dither)
